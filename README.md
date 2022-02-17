@@ -10,8 +10,6 @@ This template should help get you started developing with Vue 3 and Typescript i
 
 - 🍍 [State Management via Pinia](https://pinia.esm.dev/)
 
-- ⚡️ [State Management via Pinia](https://pinia.esm.dev/)
-
 - 🎨 [Windi CSS](https://github.com/windicss/windicss)
 
 - 🎨 [ESLint](https://eslint.org/), [Prettier](https://prettier.io)
