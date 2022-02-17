@@ -1,12 +1,43 @@
-# Vite - Pinia - TypeScript Starter
+# Vite - Pinia - TypeScript - Windi Starter
 
 Vite - Vue 3 - Pinia - Vue Router 4 - TypeScript - Windi CSS - ESLint - Prettier
 
 This template should help get you started developing with Vue 3 and Typescript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Recommended IDE Setup
+- ⚡️ [Vue 3](https://github.com/vuejs/vue-next),
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+- ⚡️ [Vite 2](https://github.com/vitejs/vite), [ESBuild](https://github.com/evanw/esbuild)
+
+- 🍍 [State Management via Pinia](https://pinia.esm.dev/)
+
+- ⚡️ [State Management via Pinia](https://pinia.esm.dev/)
+
+- 🎨 [Windi CSS](https://github.com/windicss/windicss)
+
+- 🎨 [ESLint](https://eslint.org/), [Prettier](https://prettier.io)
+
+- 🦾 [Vue Router 4](https://router.vuejs.org/guide/)
+
+- 🦾 [TypeScript](https://www.typescriptlang.org/)
+
+## Installation
+
+```bash
+# clone the project
+git clone https://github.com/yoruk-alper/vite-pinia-ts-windi-starter.git
+
+# open the project directory
+cd vite-pinia-ts-windi-starter
+
+# install dependencies
+npm install
+
+# start the application
+npm run dev
+
+# make a production build
+npm run build
+```
 
 ## Type Support For `.vue` Imports in TS
 
